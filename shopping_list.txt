@@ -1,5 +1,6 @@
 -egg
--conflict asdf
+
+-conflict 1234
 
 ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
