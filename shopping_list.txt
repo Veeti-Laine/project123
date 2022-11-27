@@ -1,6 +1,5 @@
 -egg
-
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+-conflict asdf
 
 ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
